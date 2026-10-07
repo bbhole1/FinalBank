@@ -32,6 +32,9 @@ public class User {
     @Column
     private Integer age;
 
+    @Column
+    private Integer age1;
+
 
 
 }
