@@ -25,11 +25,13 @@ public class User {
     @Column(nullable = false)
     private String adress;
 
+
     @Column(nullable = false)
     private String gender;
 
     @Column
     private Integer age;
+
 
 
 }
