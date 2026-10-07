@@ -31,7 +31,5 @@ public class User {
     @Column
     private Integer age;
 
-    @Column
-    private String DateOfBirth;
 
 }

@@ -26,8 +26,6 @@ public class UserDTO {
 
     private Integer age;
 
-    @NotNull
-    @Size(max = 255)
-    private String DateOfBirth;
+
 
 }
