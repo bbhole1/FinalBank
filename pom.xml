@@ -8,10 +8,10 @@
         <version>4.1.1</version>
         <relativePath /><!-- lookup parent from repository -->
     </parent>
-    <groupId>io.curd</groupId>
-    <artifactId>curd</artifactId>
+    <groupId>io.bank</groupId>
+    <artifactId>bank</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>curd</name>
+    <name>bank</name>
 
     <properties>
         <java.version>21</java.version>
